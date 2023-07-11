@@ -1,6 +1,7 @@
 import uuid
 import requests
 import threading
+import time
 
 url = "https://api.sfelc.com/graphql"
 roomId = "64a3e962b0cf6c68ec1a2165"
@@ -416,10 +417,13 @@ def react1():
 
     like = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN1, 'User-Agent': UserAgent}, json=likereact)
     print('Like bot 1: ' + like.text)
+    time.sleep(1)
     think = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN1, 'User-Agent': UserAgent}, json=thinkreact)
     print('Think bot 1: ' + like.text)
+    time.sleep(1)
     smile = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN1, 'User-Agent': UserAgent}, json=smilereact)
     print('Smile bot 1: ' + like.text)
+    time.sleep(1)
     
 def react2():
   while True:
@@ -458,10 +462,13 @@ def react2():
 
     like = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN2, 'User-Agent': UserAgent}, json=likereact)
     print('Like bot 2: ' + like.text)
+    time.sleep(1)
     think = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN2, 'User-Agent': UserAgent}, json=thinkreact)
     print('Think bot 2: ' + like.text)
+    time.sleep(1)
     smile = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN2, 'User-Agent': UserAgent}, json=smilereact)
     print('Smile bot 2: ' + like.text)
+    time.sleep(1)
     
 def react3():
   while True:
@@ -500,10 +507,13 @@ def react3():
 
     like = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN2, 'User-Agent': UserAgent}, json=likereact)
     print('Like bot 3: ' + like.text)
+    time.sleep(1)
     think = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN2, 'User-Agent': UserAgent}, json=thinkreact)
     print('Think bot 3: ' + like.text)
+    time.sleep(1)
     smile = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN2, 'User-Agent': UserAgent}, json=smilereact)
     print('Smile bot 3: ' + like.text)
+    time.sleep(1)
     
 def react4():
   while True:
