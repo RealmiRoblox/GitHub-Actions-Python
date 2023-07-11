@@ -1,7 +1,6 @@
 import uuid
 import requests
 import threading
-import time
 
 url = "https://api.sfelc.com/graphql"
 roomId = "64a3e962b0cf6c68ec1a2165"
