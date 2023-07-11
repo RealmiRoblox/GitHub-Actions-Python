@@ -3,14 +3,6 @@ name: Run Python Script
 on: 
   workflow_dispatch:
 
-env:
-  subscription_id: ${{ secrets.SUBSCRIPTION_ID }}
-  tenant_id: ${{ secrets.TENANT_ID }}
-  rg-videos-name: ${{ secrets.RESOURCE_GROUP_NAME }}
-  synapse_videos_workspace_name: ${{ secrets.SYNAPSE_WORKSPACE_NAME }}
-  sp-videos-client-id: ${{ secrets.SP_VIDEOS_CLIENT_ID }}
-  sp-videos-client-secret: ${{ secrets.SP_VIDEOS_CLIENT_SECRET }}
-
 jobs:
   run-python:
     runs-on: ubuntu-latest
@@ -25,7 +17,7 @@ jobs:
       
       - name: Run Python Script
         run: |
-          python -m pip install requests
+          python -m pip install -r requirements.txt
           python mypythonscript.py
 
   run-python-via-powershell:
@@ -38,7 +30,7 @@ jobs:
       - name: Run Python Script via Powershell
         shell: pwsh
         run: |
-          python -m pip install requests
+          python -m pip install -r requirements.txt
           python mypythonscriptPS.py
 
   run-python-multiple-versions:
