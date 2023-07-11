@@ -8,17 +8,17 @@ meetupId = "64a3e962b0cf6c68ec1a2144"
 message = "We're no strangers to love, You know the rules and so do I, A full commitment's what I'm thinking of, You wouldn't get this from any other guy, I just wanna tell you how I'm feeling, Gotta make you understand, Never gonna give you up, Never gonna let you down, Never gonna run around and desert you, Never gonna make you cry, Never gonna say goodbye, Never gonna tell a lie and hurt you."
 ticketOptionId = "64a3e962b0cf6c68ec1a214c"
 UserAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 11_6_9; like Mac OS X) AppleWebKit/533.21 (KHTML, like Gecko)  Chrome/50.0.1242.176 Mobile Safari/600.8"
-TOKEN1 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWMyYTYyZWI1MjFhMGRlNWM2NGRiMyIsImlhdCI6MTY4OTA1NjA1NX0.ap3MlveTV-XF4mz8SW15GMVD9JLEUbUh6O8bkAScALE"
-TOKEN2 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNkODZiMDViNDI1OTFiYzgyZmYxYyIsImlhdCI6MTY4OTA1NjEzMn0.mrJ8J-4jXRS5C9GVbzUpyHK58rVV1RcJIbkZaQM3H8w"
-TOKEN3 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNkYWM4NWVlZTkxMjNkZWEyMWYzNyIsImlhdCI6MTY4OTA0OTgwMX0.X-JzTm2f3f3WMXuygIjJllfGPtcn7yW8bVb5PdOAOt0"
-TOKEN4 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNmNDFkZWI1MjFhMGRlNWM5M2U0OCIsImlhdCI6MTY4OTA1NjI4Nn0.vf-OS4zynOGX5OrMnEI5J6r8-VU4Op4FaFhrLv6Eq2s"
-TOKEN5 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNmNGFmNWVlZTkxMjNkZWEyNmZhZSIsImlhdCI6MTY4OTA1Njc3M30.T7cTLuMWabJ_j8-0I93W2Gq5qLNUT49NP-3XK7KIJNU"
-TOKEN6 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNmN2I3MjI1MDgwMGJiNzQyNjhlMSIsImlhdCI6MTY4OTA1NzIwOH0.ZX4QNUPwhnnAZ1qoZsp6Ty5PXj7s0lpavvx634WCeBM"
-TOKEN7 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNmODI5YmFmODdjNmVkOGRkZDkzNyIsImlhdCI6MTY4OTA1NzMyMX0.pCH34GhEPimuz1ByAfsiYxRIQj7bscZI0juj5TIHzP4"
-TOKEN8 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNmODkwMzlkZGQ5ZTczYWJhNzhiOSIsImlhdCI6MTY4OTA1NzQyNX0.FxsRvBD8GSgJFJA7P1OrLlDsXkPYOk1s2IkEU_Q5RqM"
-TOKEN9 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNmOTBiNWVlZTkxMjNkZWEyODBjNCIsImlhdCI6MTY4OTA1NzU0OH0.gcK0cY4BNjbaew3kgASF39L5tW0HlYf3Xcsypc17JVE"
-TOKEN10 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNmOThkNWVlZTkxMjNkZWEyODI0YiIsImlhdCI6MTY4OTA1NzY3N30.ERBU3rkuyZ6ebAcYKL0GOzU5_A6iS0rWQf5NwQ0aKjE"
-TOKEN11 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWNmOWY3MWJjYjE1MGRmN2Y5MzNjMCIsImlhdCI6MTY4OTA1Nzc4NH0.NdN0lyg2aEVaSaKD0QLXquTEMSxnXjNGHYTVsjDdDgY"
+TOKEN1 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1Mjk2ZGQxYmIyZjMyNThjM2NhYSIsImlhdCI6MTY4OTA4MDQ3MH0.yG8jBN3DipLh0VSy9wTOkEnpksH2teWjoo_JjOIZ1aw"
+TOKEN2 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1MzlhYzk2MTcxNGViOGNhZDE4YSIsImlhdCI6MTY4OTA4MDczMH0.yyQXaKoIxOLZoHwJDrZwYuYqcr633Z7WRczC_0KbGV8"
+TOKEN3 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1NjI2Zjc3ZmJmNWIxM2ViNTQyOCIsImlhdCI6MTY4OTA4MTM4M30.PnZ3wSzsg1YLJXhN4aDxhr9wT5Pyeb125J1DX0aZqxA"
+TOKEN4 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1NjdkNzk1YWRhYTk5YmNmYjA1MCIsImlhdCI6MTY4OTA4MTQ3MH0.9Dg-XU9d868AviV75wX9CT9t1c7-7hrDqDVG6-nCEn8"
+TOKEN5 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1NmNiNGY3MmIxNGRjZTgxNmYyOCIsImlhdCI6MTY4OTA4MTU0N30.D8T9VH3l7RdKEdQXb9uG-tAgH-kT40AetdBepbsfmTw"
+TOKEN6 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1NzMzZGQxYmIyZjMyNThjNGU5NyIsImlhdCI6MTY4OTA4MTY1Mn0.obipjz2-8EjtIXflAqq7bbmlGINgLRXQsHGaw5u0rMc"
+TOKEN7 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1Nzk0ZWFjNGExMjk2NDA4NjU0NiIsImlhdCI6MTY4OTA4MTc0OH0.-mzxfB5DjzlOYYaZCGVaQP4qD69b7mRAOIi39dYAcv4"
+TOKEN8 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1N2Y5N2I0ZWZlNzc2ZmQ5MzM4OSIsImlhdCI6MTY4OTA4MTg0OX0.tQgb7dddIsUIesuLDwPTvPmjFcPub3-f8LVw9DTmW4Y"
+TOKEN9 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1ODYzNmM4NGEwYzZiODlkZWFjOSIsImlhdCI6MTY4OTA4MTk1NX0.0rLQ5tZiwGDHM_SwP8BmD24eY7znYS4lLh8NDIVtjY8"
+TOKEN10 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YWQ1OGI1MzFiYjEzYzg1ZjhkMTRiNiIsImlhdCI6MTY4OTA4MjA2NH0.EtF-4GZ2wQ0UFv_av9T5-PFz1hnemUcuSipZXScMRUc"
+TOKEN11 = ""
 TOKEN12 = ""
 TOKEN13 = ""
 TOKEN14 = ""
@@ -62,8 +62,8 @@ join = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN9, 'User-Ag
 print('Joined to event bot 9: ' + join.text)
 join = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN10, 'User-Agent': UserAgent}, json=joindata)
 print('Joined to event bot 10: ' + join.text)
-join = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN11, 'User-Agent': UserAgent}, json=joindata)
-print('Joined to event bot 11: ' + join.text)
+#join = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN11, 'User-Agent': UserAgent}, json=joindata)
+#print('Joined to event bot 11: ' + join.text)
 #join = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN12, 'User-Agent': UserAgent}, json=joindata)
 #print('Joined to event bot 12: ' + join.text)
 #join = requests.post(url, headers={'Authorization': 'Bearer ' + TOKEN13, 'User-Agent': UserAgent}, json=joindata)
@@ -1005,7 +1005,7 @@ botthread7.start()
 botthread8.start()
 botthread9.start()
 botthread10.start()
-botthread11.start()
+#botthread11.start()
 #botthread12.start()
 #botthread13.start()
 #botthread14.start()
@@ -1019,7 +1019,7 @@ reactspam7.start()
 reactspam8.start()
 reactspam9.start()
 reactspam10.start()
-reactspam11.start()
+#reactspam11.start()
 #reactspam12.start()
 #reactspam13.start()
 #reactspam14.start()
